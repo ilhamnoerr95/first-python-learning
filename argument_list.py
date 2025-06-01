@@ -2,7 +2,6 @@
 # argument list contain data as the parameter input
 # argument list only once in function
 
-
 def total(*list_angka):
     total = 0
     for angka in list_angka:
